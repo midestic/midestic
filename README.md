@@ -1,4 +1,4 @@
-<p align="left">👋 Hi there! I'm a passionate Fullstack Developer who loves building powerful and user-friendly web applications.<br> <br> 💬 Feel free to check out my projects or reach out — I'm always open to collaborations and learning opportunities!</p>
+<h1 align="left">👋 Hi there! I'm a passionate Fullstack Developer who loves building powerful and user-friendly web applications.<br> 💬 Feel free to check out my projects or reach out — I'm always open to collaborations and learning opportunities!</h1>
 
 ###
 
