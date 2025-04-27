@@ -1,4 +1,12 @@
-<h2 align="left">👋 Hi there! I'm a passionate Fullstack Developer who loves building powerful and user-friendly web applications.<br>💬 Feel free to check out my projects or reach out — I'm always open to collaborations and learning opportunities!</h2>
+<h3 align="center">👋 Hi, I'm Usman Badmus!</h3>
+<p align="center"><b> <i> 🚀 Fullstack Developer | Builder of Digital Dreams | Lifelong Learner</i></b></p>
+
+<p align="center"><b> <i> Welcome to my corner of the internet!  <br>
+I'm a passionate Fullstack Developer who loves turning ideas into powerful, beautiful, and scalable digital products. <br>
+
+💬 Feel free to check out my projects or reach out — I'm always open to collaborations and learning opportunities!
+
+</i></b></p>
 
 ###
 
@@ -9,7 +17,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -39,7 +47,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="badmususman50@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
