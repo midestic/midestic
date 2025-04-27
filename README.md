@@ -1,14 +1,12 @@
-# 💫About Me :
+
 
 👋 Hi there! I'm a passionate Fullstack Developer who loves building powerful and user-friendly web applications.
-🔧 Skilled in JavaScript, React, Next.js, Node.js, Express, SQL, and MongoDB.
-🚀 Always learning new technologies and improving my craft to deliver high-quality solutions.
-🎯 I enjoy turning ideas into real products that solve real-world problems.
-💬 Feel free to check out my projects or reach out — I'm always open to collaborations and learning opportunities!
+
+
 
 ## 🌐Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/usman.badmus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usman_badmus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Usman Badmus) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/midestic_JS)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/usman.badmus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Usman Badmus) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/midestic_JS)
 
 # 💻Tech Stack
 
