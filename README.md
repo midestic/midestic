@@ -1,3 +1,6 @@
+<img src="githubBanner.png" alt="GitHub Banner" width="100%" />
+<br>
+
 <h3 align="center">👋 Hi, I'm Usman Badmus!</h3>
 <p align="center"><b> <i> 🚀 Fullstack Developer | Builder of Digital Dreams | Lifelong Learner</i></b></p>
 
@@ -17,7 +20,7 @@ I'm a passionate Fullstack Developer who loves turning ideas into powerful, beau
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
